@@ -36,3 +36,13 @@ and just execute it on the terminal like so
     pytest
 
 ## The App
+
+Much like `apt`, `dummyApt` "installs" applications on a REPL loop or from an input file accoring to the 
+
+    DEPEND pk1 pk2 [pk3]
+    INSTALL pk
+    REMOVE pk
+    LIST
+    END
+
+syntax
