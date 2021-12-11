@@ -15,15 +15,15 @@ activate it with
 
 and then execute the app with this command to use it directly from the console
 
-    python3 myApt.py
+    python3 dummyApt.py
 
 Or if you have an input file
 
-    python3 myApt.py < inputfile
+    python3 dummyApt.py < inputfile
 
 Or if youd like to redirect the output to another file
     
-    python3 myApt.py < inputfile > outputfile
+    python3 dummyApt.py < inputfile > outputfile
 
 ## Tests
 
